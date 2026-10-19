@@ -1,8 +1,8 @@
 // EDIT THESE THREE VALUES. Leave blank until your links / contract are ready.
 const CONFIG = {
-  twitter: "",
-  pumpfun: "",
-  contract: ""
+  twitter: "https://x.com/asi_itsme",
+  pumpfun: "https://pump.fun/",
+  contract: "contract address"
 };
 
 const $ = (s) => document.querySelector(s);
